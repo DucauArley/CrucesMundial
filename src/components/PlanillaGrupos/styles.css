@@ -1,0 +1,48 @@
+h2 {
+  color: rgb(212, 175, 55); 
+  text-align: center; 
+  margin: 0px 0px 15px;
+}
+
+.GridGrupos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin-bottom: 40px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.GridGrupo {
+  background-color: rgb(45, 45, 45);
+  border-radius: 16px;
+  padding: 20px;
+  border: 2px solid rgb(212, 175, 55);
+}
+
+.GridPaises{
+  display: flex; 
+  flex-direction: column; 
+  gap: 10px;
+}
+
+.Pais {
+  display: contents;
+  font-weight: bold;
+  color: white;
+}
+
+.Bandera{
+  width: 30px; 
+  height: 25px; 
+  min-width: 30px; 
+  object-fit: cover; 
+  flex-shrink: 0; 
+  display: block;
+}
+
+.Posicion{
+  margin-right: 0px;
+  margin-left: auto;
+}
