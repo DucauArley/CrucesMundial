@@ -510,12 +510,12 @@ var K = ["1K", "2K", "3K", "4K"];
 var L = ["1L", "2L", "3L", "4L"];
 
 export const objetoPaises = {
-  A: ["Mexico", "Sudafrica", "Corea del sur", "Dinamarca"],
-  B: ["Canada", "Italia", "Catar", "Suiza"],
+  A: ["Mexico", "Sudafrica", "Corea del sur", "Rep. Checa"],
+  B: ["Canada", "Bosn y Herz", "Catar", "Suiza"],
   C: ["Brasil", "Marruecos", "Haiti", "Escocia"],
   D: ["EEUU", "Paraguay", "Australia", "Turquia"],
   E: ["Alemania", "Curazao", "Costa de Marfil", "Ecuador"],
-  F: ["Paises Bajos", "Japon", "Polonia", "Tunez"],
+  F: ["Paises Bajos", "Japon", "Suecia", "Tunez"],
   G: ["Belgica", "Egipto", "Iran", "Nueva Zelanda"],
   H: ["España", "Cabo Verde", "Arabia Saudita", "Uruguay"],
   I: ["Francia", "Senegal", "Irak", "Noruega"],

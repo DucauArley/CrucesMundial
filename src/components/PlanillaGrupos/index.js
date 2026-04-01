@@ -4,12 +4,12 @@ import { objetoPaises, primero, segundo, tercero, todos, noSeleccionado } from '
 const PlanillaGrupos = ({activePais, activePaisDos, color, colorDos, cambiarColor}) =>{
 
     const fotos = {
-        A: ["https://flagcdn.com/w40/mx.png", "https://flagcdn.com/w40/za.png", "https://flagcdn.com/w40/kr.png" , "https://flagcdn.com/w40/dk.png"],
-        B: ["https://flagcdn.com/w40/ca.png", "https://flagcdn.com/w40/it.png", "https://flagcdn.com/w40/qa.png", "https://flagcdn.com/w40/ch.png"],
+        A: ["https://flagcdn.com/w40/mx.png", "https://flagcdn.com/w40/za.png", "https://flagcdn.com/w40/kr.png" , "https://flagcdn.com/w40/cz.png"],
+        B: ["https://flagcdn.com/w40/ca.png", "https://flagcdn.com/w40/ba.png", "https://flagcdn.com/w40/qa.png", "https://flagcdn.com/w40/ch.png"],
         C: ["https://flagcdn.com/w40/br.png", "https://flagcdn.com/w40/ma.png", "https://flagcdn.com/w40/ht.png", "https://flagcdn.com/w40/gb-sct.png"],
         D: ["https://flagcdn.com/w40/us.png", "https://flagcdn.com/w40/py.png", "https://flagcdn.com/w40/au.png", "https://flagcdn.com/w40/tr.png"],
         E: ["https://flagcdn.com/w40/de.png", "https://flagcdn.com/w40/cw.png", "https://flagcdn.com/w40/ci.png", "https://flagcdn.com/w40/ec.png"],
-        F: ["https://flagcdn.com/w40/nl.png", "https://flagcdn.com/w40/jp.png", "https://flagcdn.com/w40/pl.png", "https://flagcdn.com/w40/tn.png"],
+        F: ["https://flagcdn.com/w40/nl.png", "https://flagcdn.com/w40/jp.png", "https://flagcdn.com/w40/se.png", "https://flagcdn.com/w40/tn.png"],
         G: ["https://flagcdn.com/w40/be.png", "https://flagcdn.com/w40/eg.png", "https://flagcdn.com/w40/ir.png", "https://flagcdn.com/w40/nz.png"],
         H: ["https://flagcdn.com/w40/es.png", "https://flagcdn.com/w40/cv.png", "https://flagcdn.com/w40/sa.png", "https://flagcdn.com/w40/uy.png"],
         I: ["https://flagcdn.com/w40/fr.png", "https://flagcdn.com/w40/sn.png", "https://flagcdn.com/w40/iq.png", "https://flagcdn.com/w40/no.png"],
