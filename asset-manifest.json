@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrucesMundial/static/css/main.4821cfe7.css",
+    "main.js": "/CrucesMundial/static/js/main.87f7036a.js",
+    "static/js/453.542ce7d1.chunk.js": "/CrucesMundial/static/js/453.542ce7d1.chunk.js",
+    "index.html": "/CrucesMundial/index.html",
+    "main.4821cfe7.css.map": "/CrucesMundial/static/css/main.4821cfe7.css.map",
+    "main.87f7036a.js.map": "/CrucesMundial/static/js/main.87f7036a.js.map",
+    "453.542ce7d1.chunk.js.map": "/CrucesMundial/static/js/453.542ce7d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4821cfe7.css",
+    "static/js/main.87f7036a.js"
+  ]
+}
